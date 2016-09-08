@@ -1,0 +1,6 @@
+framework module Pods_MoyademoUITests {
+  umbrella header "Pods-MoyademoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
